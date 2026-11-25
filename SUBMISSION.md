@@ -2,7 +2,7 @@
 
 ## Links
 
-- **Live app:** _LIVE_URL_
+- **Live app:** https://ajaia-docs-hazel-xi.vercel.app
 - **Walkthrough video:** in [VIDEO_URL.txt](VIDEO_URL.txt)
 - **Demo accounts:** `alice@ajaia.test`, `bob@ajaia.test`, `carol@ajaia.test`, all with password **`demo1234`** (one-click buttons on the login page). You can also sign up with any email.
 
