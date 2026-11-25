@@ -1,0 +1,6 @@
+Release checklist
+
+This is a plain text file.
+Line breaks inside a paragraph are kept.
+
+Blank lines start a new paragraph.
