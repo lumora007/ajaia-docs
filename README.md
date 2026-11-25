@@ -3,7 +3,8 @@
 A lightweight collaborative document editor: create, edit and format documents in the browser, import files, and share them with other users as **editors** or **viewers**.
 
 **Live app:** https://ajaia-docs-hazel-xi.vercel.app (see [Demo accounts](#demo-accounts))
-**Walkthrough video:** see [VIDEO_URL.txt](VIDEO_URL.txt) · **Demo GIF (~3 min):** [docs/demo.gif](docs/demo.gif)
+**Walkthrough video:** https://drive.google.com/file/d/19bn-4gQTWb81b7OkwtFbjQN2FpvUaBEc/view?usp=sharing · **Demo GIF (~3 min):** [docs/demo.gif](docs/demo.gif)
+**Source:** https://github.com/lumora007/ajaia-docs
 
 ![Share dialog](docs/screenshots/3-share-dialog.jpg)
 

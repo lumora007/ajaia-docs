@@ -3,7 +3,9 @@
 ## Links
 
 - **Live app:** https://ajaia-docs-hazel-xi.vercel.app
-- **Walkthrough video:** in [VIDEO_URL.txt](VIDEO_URL.txt)
+- **Walkthrough video:** https://drive.google.com/file/d/19bn-4gQTWb81b7OkwtFbjQN2FpvUaBEc/view?usp=sharing
+- **Source (GitHub):** https://github.com/lumora007/ajaia-docs
+- **Source (zip on Google Drive):** https://drive.google.com/file/d/1804lO-kNVTQKuSurCUb-GM-tJ79uzdQO/view?usp=drive_link
 - **Demo accounts:** `alice@ajaia.test`, `bob@ajaia.test`, `carol@ajaia.test`, all with password **`demo1234`** (one-click buttons on the login page). You can also sign up with any email.
 
 ## What's included
